@@ -1,0 +1,11 @@
+{
+  "articles": [
+    {
+      "path": "https://github.com/BreezeDelegate/hinoake-launcher-releases/releases",
+      "thumbnail": "https://raw.githubusercontent.com/BreezeDelegate/hinoake-launcher-releases/main/hinoake-head.png",
+      "title": "Projet Méridien — test V0.1",
+      "summary": "La première saison test Hinoake est ouverte. Le launcher officiel suivra automatiquement les prochaines versions du pack.",
+      "date": "2026-09-27T00:00:00+02:00"
+    }
+  ]
+}

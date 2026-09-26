@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "channel": "test",
+  "pack": {
+    "id": "meridien",
+    "name": "Hinoake — Projet Méridien",
+    "version": "0.1.0",
+    "url": "https://raw.githubusercontent.com/BreezeDelegate/hinoake-launcher-releases/main/packs/Hinoake-Projet-Meridien-1.21.1-v0.1.0.mrpack",
+    "sha256": "3b5b6e436c80a0706ab3ef568db9d44eedb8cbb494c4794a8c73289af31598d5",
+    "size": 59692
+  },
+  "server": {
+    "id": "hinoake-meridien-test",
+    "name": "Hinoake — Méridien [TEST]",
+    "address": "node.hinoake.xyz:25566"
+  }
+}
